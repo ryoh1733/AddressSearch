@@ -10,5 +10,6 @@ Ruby 2.5.3
 
 ## 実行方法
 - `git clone git@github.com:ryoh1733/AddressSearch.git`
+- `cd AddressSearch`
 - `bundle install`
 - `ruby main.rb [検索文字列]`
